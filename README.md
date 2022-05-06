@@ -1,6 +1,6 @@
 # Tutorials Template
 
-* It’s a Non-Responsive Template.
+* It’s a Non-Responsive Template
 * It Can Be Used as a Template to Provide Tutorials for Students & Tech Geeks in a Simple & Easy Way.
 
 # The Used Technologies
